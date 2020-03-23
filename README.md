@@ -4,7 +4,7 @@ RefreshComponentRenderer is a Grid renderer add-on for Vaadin 8.
 
 ## Download release
 
-Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to https://vaadin.com/addon/refreshcomponentrenderer
+Official releases of this add-on are available at Vaadin Directory. For Maven instructions, download and reviews, go to https://vaadin.com/directory/component/refreshcomponentrenderer-add-on
 
 ## Building and running demo
 
